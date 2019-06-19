@@ -1,0 +1,13 @@
+1.We create the base class CardBase.cs with a constructor that accepts the turnover from the previous
+month and value of the purchase. In CardBase class we also create function CalculateDiscount which is
+common for every type of Card(bronze,silver and Gold).
+
+2.After that we create the classes that inherit CardBase(BronzeCard.cs,SilverCard.cs,Gold.cs).
+In their constructors we check the turnover from the previous month, so we can figure out what 
+the discount rate will be.
+
+3.Then we create the payDesk.cs class that will only contain  our static method for outputing
+data on the console.
+
+4. In the Main method we create three object of type bronze, silver and gold.
+And we invoke the PayDesk.OutputData method .

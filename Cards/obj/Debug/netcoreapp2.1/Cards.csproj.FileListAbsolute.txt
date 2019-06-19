@@ -1,0 +1,11 @@
+C:\Users\feder\source\repos\IPRIMEholdingTask\Cards\obj\Debug\netcoreapp2.1\Cards.csprojAssemblyReference.cache
+C:\Users\feder\source\repos\IPRIMEholdingTask\Cards\obj\Debug\netcoreapp2.1\Cards.csproj.CoreCompileInputs.cache
+C:\Users\feder\source\repos\IPRIMEholdingTask\Cards\obj\Debug\netcoreapp2.1\Cards.AssemblyInfoInputs.cache
+C:\Users\feder\source\repos\IPRIMEholdingTask\Cards\obj\Debug\netcoreapp2.1\Cards.AssemblyInfo.cs
+C:\Users\feder\source\repos\IPRIMEholdingTask\Cards\bin\Debug\netcoreapp2.1\Cards.deps.json
+C:\Users\feder\source\repos\IPRIMEholdingTask\Cards\bin\Debug\netcoreapp2.1\Cards.runtimeconfig.json
+C:\Users\feder\source\repos\IPRIMEholdingTask\Cards\bin\Debug\netcoreapp2.1\Cards.runtimeconfig.dev.json
+C:\Users\feder\source\repos\IPRIMEholdingTask\Cards\bin\Debug\netcoreapp2.1\Cards.dll
+C:\Users\feder\source\repos\IPRIMEholdingTask\Cards\bin\Debug\netcoreapp2.1\Cards.pdb
+C:\Users\feder\source\repos\IPRIMEholdingTask\Cards\obj\Debug\netcoreapp2.1\Cards.dll
+C:\Users\feder\source\repos\IPRIMEholdingTask\Cards\obj\Debug\netcoreapp2.1\Cards.pdb
